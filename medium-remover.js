@@ -1,3 +1,4 @@
+// ==UserScript==
 // @name         Medium header remover
 // @version      0.1
 // @author       none
