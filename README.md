@@ -1,7 +1,5 @@
 Medium artile header and footer remover for smaller screen pc
 
-# Download
-
 ## Tampermonkey
 
 Download tampermonkey:
@@ -12,4 +10,10 @@ Download tampermonkey:
 - **Other:** https://tampermonkey.net/ (follow instructions there)
 
 Then install the user-script here:
-https://github.com/devTeaa/medium-banner-remover/raw/master/medium-remover.js
+https://github.com/devTeaa/medium-banner-remover/raw/master/medium-remover.user.js
+
+You can add your own medium-like site by adding this starting from line 5
+
+```
+// @match *medium.com/*
+```
