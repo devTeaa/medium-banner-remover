@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Medium header remover
-// @version      0.1
+// @version      0.2
 // @author       none
 // @match        *medium.com/*
+// @match        *medium.freecodecamp.org/*
 // @match        *hackernoon.com/*
 // @match        *towardsdatascience.com/*
+// @match        *heartbeat.fritz.ai/*
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
