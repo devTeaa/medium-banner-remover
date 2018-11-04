@@ -23,7 +23,7 @@
 
         .bloginfo.headroom,
         .postinfo{
-           display: none
+           display: none !important
         }
     `;
 
