@@ -5,6 +5,8 @@
 // @match        *medium.com/*
 // @match        *medium.freecodecamp.org/*
 // @match        *hackernoon.com/*
+// @match        *codeburst.io/*
+// @match        *montemagno.com/*
 // @match        *towardsdatascience.com/*
 // @match        *heartbeat.fritz.ai/*
 // @grant        GM_addStyle
@@ -17,6 +19,11 @@
         .metabar,
         .js-stickyFooter {
            display: none;
+        }
+
+        .bloginfo.headroom,
+        .postinfo{
+           display: none
         }
     `;
 
