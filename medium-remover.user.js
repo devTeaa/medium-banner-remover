@@ -9,6 +9,7 @@
 // @match        *montemagno.com/*
 // @match        *towardsdatascience.com/*
 // @match        *heartbeat.fritz.ai/*
+// @match        *blog.gojekengineering.com/*
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
