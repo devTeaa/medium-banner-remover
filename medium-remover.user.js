@@ -10,6 +10,7 @@
 // @match        *towardsdatascience.com/*
 // @match        *heartbeat.fritz.ai/*
 // @match        *blog.gojekengineering.com/*
+// @match        *code.likeagirl.io/*
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
