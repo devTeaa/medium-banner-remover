@@ -1,16 +1,15 @@
 // ==UserScript==
-// @name         Medium header remover
-// @version      0.2
+// @name         Website big header remover
+// @version      0.4
 // @author       none
 // @match        *medium.com/*
 // @match        *medium.freecodecamp.org/*
 // @match        *hackernoon.com/*
-// @match        *codeburst.io/*
-// @match        *montemagno.com/*
 // @match        *towardsdatascience.com/*
 // @match        *heartbeat.fritz.ai/*
 // @match        *blog.gojekengineering.com/*
 // @match        *code.likeagirl.io/*
+// @match        *stackify.com/*
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
@@ -23,9 +22,8 @@
            display: none;
         }
 
-        .bloginfo.headroom,
-        .postinfo{
-           display: none !important
+        .x-navbar {
+           display: none;
         }
     `;
 
