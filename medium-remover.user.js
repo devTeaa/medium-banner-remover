@@ -25,7 +25,7 @@
         }
 
         html {
-           overflow-y: scroll;
+           overflow-y: scroll !important;
         }
 
         .o.my,
