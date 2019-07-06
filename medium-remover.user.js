@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Website big header remover
-// @version      0.4
+// @version      0.5
 // @author       none
 // @match        *medium.com/*
 // @match        *medium.freecodecamp.org/*
