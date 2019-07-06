@@ -9,7 +9,9 @@
 // @match        *heartbeat.fritz.ai/*
 // @match        *blog.gojekengineering.com/*
 // @match        *code.likeagirl.io/*
+// @match        *blog.bitsrc.io/*
 // @match        *stackify.com/*
+// @match        *codeburst.io/*
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
@@ -21,7 +23,10 @@
         .js-stickyFooter {
            display: none;
         }
-
+        .o.my,
+        .n.o {
+           display: none;
+        }
         .x-navbar {
            display: none;
         }
