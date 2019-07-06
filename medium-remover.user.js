@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Website big header remover
-// @version      0.5
+// @version      0.6
 // @author       none
 // @match        *medium.com/*
 // @match        *medium.freecodecamp.org/*
@@ -23,6 +23,11 @@
         .js-stickyFooter {
            display: none;
         }
+
+        html {
+           overflow-y: scroll;
+        }
+
         .o.my,
         .n.o {
            display: none;
