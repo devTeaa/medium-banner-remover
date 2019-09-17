@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Website big header remover
-// @version      0.6
+// @version      0.7
 // @author       none
 // @match        *medium.com/*
 // @match        *medium.freecodecamp.org/*
@@ -28,8 +28,8 @@
            overflow-y: scroll !important;
         }
 
-        .o.my,
-        .n.o {
+        *:not(img).o.my,
+        *:not(img).n.o {
            display: none;
         }
         .x-navbar {
