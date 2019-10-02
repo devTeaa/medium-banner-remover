@@ -17,3 +17,13 @@ You can add your own medium-like site by adding this starting from line 5
 ```
 // @match *medium.com/*
 ```
+
+## Screenshots
+
+**Before the script was implemenented**
+
+<img src="https://github.com/globefire/medium-banner-remover/blob/master/example-before.png" />
+
+**After the script was implemenented**
+
+<img src="https://github.com/globefire/medium-banner-remover/blob/master/example-after.png" />
