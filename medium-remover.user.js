@@ -20,19 +20,17 @@
   "use strict";
   var style = `
         .metabar,
-        .js-stickyFooter {
+        .js-stickyFooter, .subnav, .footer, #subscribe-embed{
            display: none;
         }
-
         html {
            overflow-y: scroll !important;
         }
-
         *:not(img).o.my,
         *:not(img).n.o {
            display: none;
         }
-        .x-navbar {
+        .x-navbar, #header, .ads {
            display: none;
         }
     `;
