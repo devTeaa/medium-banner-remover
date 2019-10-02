@@ -5,7 +5,7 @@ Medium article header and footer remover for smaller screen pc
 
 |**Before the script was implemenented**|**After the script was implemenented**|
 |---------------------------------------|--------------------------------------|
-|<img src="https://github.com/globefire/medium-banner-remover/blob/master/example-before.png" />|<img src="https://github.com/globefire/medium-banner-remover/blob/master/example-after.png" />|
+|<img src="https://github.com/devTeaa/medium-banner-remover/blob/master/example-before.png" />|<img src="https://github.com/devTeaa/medium-banner-remover/blob/master/example-after.png" />|
 
 ## Tampermonkey
 
